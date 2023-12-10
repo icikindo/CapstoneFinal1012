@@ -1,0 +1,34 @@
+{
+  "configurations" : [
+    {
+      "id" : "1ADCE462-E655-4114-81E0-9FFE5E2DC385",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "environmentVariableEntries" : [
+      {
+        "key" : "IDELogRedirectionPolicy",
+        "value" : "oslogToStdio"
+      }
+    ],
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CapstoneFinal.xcodeproj",
+      "identifier" : "8798B7D52B1F470400EDB991",
+      "name" : "CapstoneFinal"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CapstoneFinal.xcodeproj",
+        "identifier" : "8798B8462B1F73ED00EDB991",
+        "name" : "CapstoneFinalTests"
+      }
+    }
+  ],
+  "version" : 1
+}
