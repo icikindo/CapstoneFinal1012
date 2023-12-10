@@ -1,0 +1,16 @@
+# rule identifiers turned on by default to exclude from running
+disabled_rules: 
+   - function_body_length
+   - implicit_getter
+   - void_return
+   - cyclomatic_complexity
+   - force_cast
+   - large_tuple
+
+line_length:
+  warning: 200
+  ignores_function_declarations: true
+  ignores_comments: true
+  ignores_interpolated_strings: true
+  ignores_urls: true
+

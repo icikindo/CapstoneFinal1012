@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  CapstoneFinal
+
+  Created by hastu on 05/12/23.
+  
+*/
+"settings_language" = "Preferred Language";
+"settings_language_footer" = "English Language";
+"profile_picture" = "Profile Picture";
+"edit_profile" = "Edit Profile";
+"name" = "Name";
+"description" = "Description";
+"undo" = "UNDO";
+"save" = "SAVE";
+"type_your_name" = "Type your real own name";
+"how_are_you" = "What are you doing in Dicoding?";
+"versi" = "version";
+"edit" = "Edit";
+"belong" = "Belongs to";

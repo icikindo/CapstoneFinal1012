@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  CapstoneFinal
+
+  Created by hastu on 05/12/23.
+  
+*/
+"Hello, world!" = "Halo dunia!";
+"settings_language" = "Pengaturan Bahasa";
+"settings_language_footer" = "Bahasa Indonesia";
+"profile_picture" = "Foto Profil";
+"edit_profile" = "Sunting Profil";
+"name" = "Nama";
+"description" = "Keterangan";
+"undo" = "BATAL";
+"save" = "SIMPAN";
+"type_your_name" = "Ketik nama Anda sesuai akta kelahiran";
+"how_are_you" = "Apa kaitan Anda dengan Dicoding?";
+"versi" = "versi";
+"belong" = "Kepunyaannya";
+"edit" = "Sunting";
+"on" = "di";
+"with" = "dengan";
+"Profile" = "Profil";
+"PROFILE" = "PROFIL";
+"CATALOG" = "KATALOG";
+"FAVED" = "ALBUM";
+"Filter your favorite title" = "Tapis judul gim di album";
+"Read More" = "Lanjut Baca";
+"Less" = "Ringkas";
+"Save" = "Simpan";
+"Done" = "Selesai";
+"now" = "barusan";
+"seconds ago" = "detik yang lalu";
+"minutes ago" = "menit yang lalu";
+"hours ago" = "jam yang lalu";
+"days ago" = "hari yang lalu";
+"Last update" = "Pemutakhiran";
+"since" = "sejak";
+"This game is not faved yet" = "Gim ini belum dialbumkan";
+"Fave It" = "Albumkan";
+"Unfave" = "Hapus";
+"None" = "Tak ada";
+"My note for" = "Catatanku untuk";
+"No personal note for" = "Tak ada catatan untuk";
